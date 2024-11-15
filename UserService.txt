@@ -1,1 +1,2 @@
 service provided
+Set version name v1.0
